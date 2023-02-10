@@ -10,7 +10,7 @@ git clone https://github.com/rohmatariow/Bcry/
 ```
 
 ### Usage
-Before running Bcry, make sure you already have your default wordlist. If you don't have one, you can use the wordlist that has been provided.
+Before you running Bcry, make sure you already have your default wordlist. If you don't have one, you can use the wordlist that has been provided.
 ```sh
 cd Bcry/
 chmod +x bcry.sh
