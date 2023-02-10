@@ -6,5 +6,12 @@ Bcry also has 2 options in it including being able to perform single targets or 
 Run the following command to install the latest version:
 
 ```sh
-bcry.sh
+git clone https://github.com/rohmatariow/Bcry/
+```
+
+### Usage
+```sh
+cd Bcry/
+chmod +x bcry.sh
+./bcry.sh
 ```
